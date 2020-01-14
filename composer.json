@@ -1,0 +1,14 @@
+{
+    "name": "moovepay/moovepay-php",
+    "description": "Moove Pay PHP Library",
+    "license": "MIT",
+    "keywords": ["moovepay", "checkout", "crypto", "bitcoin", "ethereum", "intertradec"],
+    "homepage": "https://moovepay.com/",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+    		"classmap": ["lib/"]
+    }
+}
